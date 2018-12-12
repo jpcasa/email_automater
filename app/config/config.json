@@ -1,0 +1,392 @@
+{
+  "weekly": {
+    "newsletter_ref": [
+      {
+        "region": "NA",
+        "type": "Distributor",
+        "tc": "VAD",
+        "country": "US",
+        "name": "ZPC_NEWSLINK",
+        "lang": "ENU",
+        "headline": "INFORMATION AND RESOURCES FOR DISTRIBUTORS",
+        "code"  : "ZBR98718"
+      },
+      {
+        "region": "NA",
+        "type": "Partner",
+        "tc": "Partner",
+        "country": "US",
+        "name": "ZPC_NEWSLINK",
+        "lang": "ENU",
+        "headline": "INFORMATION AND RESOURCES FOR CHANNEL PARTNERS",
+        "code"  : "ZBR98718"
+      },
+      {
+        "region": "LATAM",
+        "type": "Distributor",
+        "tc": "VAD",
+        "country": "ALL",
+        "name": "ZPC_NEWSLINK",
+        "lang": "ESN",
+        "headline": "INFORMACIÓN Y RECURSOS PARA DISTRIBUIDORES",
+        "code"  : "ZBR95718"
+      },
+      {
+        "region": "LATAM",
+        "type": "Distributor",
+        "tc": "VAD",
+        "country": "BR",
+        "name": "ZPC_NEWSLINK",
+        "lang": "PTB",
+        "headline": "INFORMAÇŌES E RECURSOS PARA DISTRIBUIDORES - BRAZIL",
+        "code"  : "ZBR95718"
+      },
+      {
+        "region": "LATAM",
+        "type": "Distributor",
+        "tc": "VAD",
+        "country": "US",
+        "name": "ZPC_NEWSLINK",
+        "lang": "ENU",
+        "headline": "INFORMATION AND RESOURCES FOR DISTRIBUTORS - US",
+        "code"  : "ZBR95718"
+      },
+      {
+        "region": "LATAM",
+        "type": "Partner",
+        "tc": "Partner",
+        "country": "BR",
+        "name": "ZPC_NEWSLINK",
+        "lang": "PTB",
+        "headline": "INFORMAÇŌES E RECURSOS PARA PARCEIROS DE CANAL - BRAZIL",
+        "code"  : "ZBR95718"
+      },
+      {
+        "region": "LATAM",
+        "type": "Partner",
+        "tc": "Partner",
+        "country": "MX",
+        "name": "ZPC_NEWSLINK",
+        "lang": "ESN",
+        "headline": "INFORMACIÓN Y RECURSOS PARA SOCIOS DE CANAL - MÉXICO",
+        "code"  : "ZBR95718"
+      },
+      {
+        "region": "LATAM",
+        "type": "Partner",
+        "tc": "Partner",
+        "country": "NOLA",
+        "name": "ZPC_NEWSLINK",
+        "lang": "ENU",
+        "headline": "INFORMATION AND RESOURCES FOR CHANNEL PARTNERS - NOLA",
+        "code"  : "ZBR95718"
+      },
+      {
+        "region": "LATAM",
+        "type": "Partner",
+        "tc": "Partner",
+        "country": "NOLA",
+        "name": "ZPC_NEWSLINK",
+        "lang": "ESN",
+        "headline": "INFORMACIÓN Y RECURSOS PARA SOCIOS DE CANAL - NOLA",
+        "code"  : "ZBR95718"
+      },
+      {
+        "region": "LATAM",
+        "type": "Partner",
+        "tc": "Partner",
+        "country": "SOLA",
+        "name": "ZPC_NEWSLINK",
+        "lang": "ESN",
+        "headline": "INFORMACIÓN Y RECURSOS PARA SOCIOS DE CANAL - SOLA",
+        "code"  : "ZBR95718"
+      }
+    ],
+    "newsletter_titles": [
+      {
+        "language": "ENU",
+        "calendar_title": "Calendar of Events",
+        "calendar_title_event": "Event",
+        "calendar_title_date": "Date",
+        "calendar_title_location": "Location",
+        "quick_links_title": "Quick Links",
+        "quick_links_cta_title": "More Information"
+      },
+      {
+        "language": "ESN",
+        "calendar_title": "Calendario de Eventos",
+        "calendar_title_event": "Evento",
+        "calendar_title_date": "Fecha",
+        "calendar_title_location": "Lugar",
+        "quick_links_title": "Enlaces Rápidos",
+        "quick_links_cta_title": "Más Información"
+      },
+      {
+        "language": "PTB",
+        "calendar_title": "Calendário de Eventos",
+        "calendar_title_event": "Evento",
+        "calendar_title_date": "Data",
+        "calendar_title_location": "Local",
+        "quick_links_title": "Links Rápidos",
+        "quick_links_cta_title": "Mais informações"
+      }
+    ],
+    "newsletter_icons": [
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B22cb96bf-d7e6-49f2-9df1-99807e606cdd%7D_icon-article-solutions.png",
+        "ENU": "tech spotlight",
+        "PTB": "tech spotlight",
+        "ESN": "lo más destacado de tech"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B22cb96bf-d7e6-49f2-9df1-99807e606cdd%7D_icon-article-solutions.png",
+        "ENU": "zebra solutions",
+        "PTB": "soluções para a indústria",
+        "ESN": "soluciones para la industria"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7Bab72a8ad-52c1-488f-ba6d-4951e1add8a0%7D_icon-article-services.png",
+        "ENU": "services",
+        "PTB": "serviços",
+        "ESN": "servicios"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B4504e97c-8080-491f-9718-e7228bc85ef7%7D_icon-article-highlights.png",
+        "ENU": "zebra highlights",
+        "PTB": "destaques da zebra",
+        "ESN": "lo más destacado de zebra"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7Be7784541-3ac5-40b8-9094-ddb004be6790%7D_icon-article-supplies.png",
+        "ENU": "supplies",
+        "PTB": "suprimentos",
+        "ESN": "suministros"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7Bf0b30d18-38de-4c6a-91a8-2ad2882fdaad%7D_icon-article-printers.png",
+        "ENU": "printers",
+        "PTB": "impressoras",
+        "ESN": "impresoras"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7Bc66bcbd2-72cb-472b-8a20-1f8de7ca13aa%7D_icon-article-scanners.png",
+        "ENU": "barcode scanners",
+        "PTB": "scanners de códigos de barras",
+        "ESN": "escáneres de códigos de barras"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B559b1c14-d5cf-40e5-bac7-d03fd957341f%7D_icon-article-mobile-computers.png",
+        "ENU": "mobile computers",
+        "PTB": "computadores portáteis",
+        "ESN": "computadoras portátiles"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B78c9787a-6c20-4668-aff7-55a0967b2334%7D_icon-article-software.png",
+        "ENU": "software",
+        "PTB": "software",
+        "ESN": "software"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B4369f9e6-123e-47ad-9826-8cff783b0218%7D_icon-article-rfid.png",
+        "ENU": "rfid",
+        "PTB": "rfid",
+        "ESN": "rfid"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B2c617f76-f53d-4d20-b103-52df80ee87a8%7D_top-pick-1.jpg",
+        "ENU": "tp #1",
+        "PTB": "tp #1",
+        "ESN": "tp #1"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B2299ad88-8ae9-476b-9578-73a72a99a22b%7D_top-pick-2.jpg",
+        "ENU": "tp #2",
+        "PTB": "tp #2",
+        "ESN": "tp #2"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B309152c8-a0bb-461f-8228-bfdb86a9120d%7D_top-pick-3.jpg",
+        "ENU": "tp #3",
+        "PTB": "tp #3",
+        "ESN": "tp #3"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7Bd069b081-7a3a-445d-9fbf-cc66046e1cc2%7D_top-pick-4.jpg",
+        "ENU": "tp #4",
+        "PTB": "tp #4",
+        "ESN": "tp #4"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B0b35e4f4-2fb7-4532-ab04-6ea0dcbc15be%7D_top-pick-5.jpg",
+        "ENU": "tp #5",
+        "PTB": "tp #5",
+        "ESN": "tp #5"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B71914d60-a4df-4853-b766-f81c7699618f%7D_top-pick-6.jpg",
+        "ENU": "tp #6",
+        "PTB": "tp #6",
+        "ESN": "tp #6"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7Bf306ee0a-c1e6-4ece-bdd4-e94bb710f772%7D_top-pick-7.jpg",
+        "ENU": "tp #7",
+        "PTB": "tp #7",
+        "ESN": "tp #7"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7Bfea09420-dddd-4307-9324-c626c9795476%7D_top-pick-8.jpg",
+        "ENU": "tp #8",
+        "PTB": "tp #8",
+        "ESN": "tp #8"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7Bc41b23ae-ae99-4e1f-99fc-cbf2d9f4981d%7D_top-pick-9.jpg",
+        "ENU": "tp #9",
+        "PTB": "tp #9",
+        "ESN": "tp #9"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B152956d7-2fd3-49f6-993d-c39ea42427ff%7D_top-pick-10.jpg",
+        "ENU": "tp #10",
+        "PTB": "tp #10",
+        "ESN": "tp #10"
+      }
+    ]
+  },
+  "registered": {
+    "newsletter_ref": [
+      {
+        "region": "NA",
+        "type": "Registered",
+        "tc": "All",
+        "country": "US",
+        "name": "ZPC_NEWSLINK",
+        "lang": "ENU",
+        "headline": "INFORMATION AND RESOURCES FOR REGISTERED RESELLERS",
+        "code"  : "ZBR98718"
+      },
+      {
+        "region": "LATAM",
+        "type": "Registered",
+        "tc": "All",
+        "country": "ALL",
+        "name": "ZPC_NEWSLINK",
+        "lang": "ESN",
+        "headline": "INFORMACIÓN Y RECURSOS PARA REVENDEDORES REGISTRADOS",
+        "code"  : "ZBR95718"
+      },
+      {
+        "region": "LATAM",
+        "type": "Registered",
+        "tc": "All",
+        "country": "BR",
+        "name": "ZPC_NEWSLINK",
+        "lang": "PTB",
+        "headline": "INFORMAÇŌES E RECURSOS PARA REVENDEDORES REGISTRADOS",
+        "code"  : "ZBR95718"
+      },
+      {
+        "region": "LATAM",
+        "type": "Registered",
+        "tc": "All",
+        "country": "US",
+        "name": "ZPC_NEWSLINK",
+        "lang": "ENU",
+        "headline": "INFORMATION AND RESOURCES FOR REGISTERED RESELLERS",
+        "code"  : "ZBR95718"
+      }
+    ],
+    "newsletter_titles": [
+      {
+        "language": "ENU",
+        "calendar_title": "Calendar of Events",
+        "calendar_title_event": "Event",
+        "calendar_title_date": "Date",
+        "calendar_title_location": "Location",
+        "quick_links_title": "Quick Links",
+        "quick_links_cta_title": "More Information"
+      },
+      {
+        "language": "ESN",
+        "calendar_title": "Calendario de Eventos",
+        "calendar_title_event": "Evento",
+        "calendar_title_date": "Fecha",
+        "calendar_title_location": "Lugar",
+        "quick_links_title": "Enlaces Rápidos",
+        "quick_links_cta_title": "Más Información"
+      },
+      {
+        "language": "PTB",
+        "calendar_title": "Calendário de Eventos",
+        "calendar_title_event": "Evento",
+        "calendar_title_date": "Data",
+        "calendar_title_location": "Local",
+        "quick_links_title": "Links Rápidos",
+        "quick_links_cta_title": "Mais informações"
+      }
+    ],
+    "newsletter_icons": [
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B22cb96bf-d7e6-49f2-9df1-99807e606cdd%7D_icon-article-solutions.png",
+        "ENU": "tech spotlight",
+        "PTB": "tech spotlight",
+        "ESN": "lo más destacado de tech"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B22cb96bf-d7e6-49f2-9df1-99807e606cdd%7D_icon-article-solutions.png",
+        "ENU": "zebra solutions",
+        "PTB": "soluções para a indústria",
+        "ESN": "soluciones para la industria"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7Bab72a8ad-52c1-488f-ba6d-4951e1add8a0%7D_icon-article-services.png",
+        "ENU": "services",
+        "PTB": "serviços",
+        "ESN": "servicios"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B4504e97c-8080-491f-9718-e7228bc85ef7%7D_icon-article-highlights.png",
+        "ENU": "zebra highlights",
+        "PTB": "destaques da zebra",
+        "ESN": "lo más destacado de zebra"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7Be7784541-3ac5-40b8-9094-ddb004be6790%7D_icon-article-supplies.png",
+        "ENU": "supplies",
+        "PTB": "suprimentos",
+        "ESN": "suministros"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7Bf0b30d18-38de-4c6a-91a8-2ad2882fdaad%7D_icon-article-printers.png",
+        "ENU": "printers",
+        "PTB": "impressoras",
+        "ESN": "impresoras"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7Bc66bcbd2-72cb-472b-8a20-1f8de7ca13aa%7D_icon-article-scanners.png",
+        "ENU": "barcode scanners",
+        "PTB": "scanners de códigos de barras",
+        "ESN": "escáneres de códigos de barras"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B559b1c14-d5cf-40e5-bac7-d03fd957341f%7D_icon-article-mobile-computers.png",
+        "ENU": "mobile computers",
+        "PTB": "computadores portáteis",
+        "ESN": "computadoras portátiles"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B78c9787a-6c20-4668-aff7-55a0967b2334%7D_icon-article-software.png",
+        "ENU": "software",
+        "PTB": "software",
+        "ESN": "software"
+      },
+      {
+        "url": "http://images.seemore.zebra.com/EloquaImages/clients/ZebraTechnologiesCorp/%7B4369f9e6-123e-47ad-9826-8cff783b0218%7D_icon-article-rfid.png",
+        "ENU": "rfid",
+        "PTB": "rfid",
+        "ESN": "rfid"
+      }
+    ]
+  }
+}

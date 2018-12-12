@@ -1,0 +1,10 @@
+colorama==0.4.1
+docx2txt==0.7
+flashtext==2.7
+lxml==4.2.5
+numpy==1.15.4
+pandas==0.23.4
+python-dateutil==2.7.5
+python-docx==0.8.7
+pytz==2018.7
+six==1.11.0
